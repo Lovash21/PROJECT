@@ -47,24 +47,7 @@ body {
 }
 
 
-@keyframes move-right {
-    0% {
-        transform: translateY(100px);
-    }
-    100% {
-        transform: translateY(-2100px); 
-    }
-}
 
-
-@keyframes move-left {
-    0% {
-        transform: translateY(-100px);
-    }
-    100% {
-        transform: translateY(2100px); 
-    }
-}
 
 
 
@@ -1579,24 +1562,7 @@ footer p {
         width: 200px;
     }
 
-    @keyframes move-right {
-        0% {
-            transform: translateY(100px);
-        }
-        100% {
-            transform: translateY(-600px); 
-        }
-    }
-    
-    
-    @keyframes move-left {
-        0% {
-            transform: translateY(-100px);
-        }
-        100% {
-            transform: translateY(600px); 
-        }
-    }
+
 
 
     .title {
@@ -2332,24 +2298,7 @@ footer p {
         animation: move-right 8s linear infinite;
     }
     
-    @keyframes move-right {
-        0% {
-            transform: translateY(100px);
-        }
-        100% {
-            transform: translateY(-600px); 
-        }
-    }
-    
-    
-    @keyframes move-left {
-        0% {
-            transform: translateY(-100px);
-        }
-        100% {
-            transform: translateY(600px); 
-        }
-    }
+
     
 
 
